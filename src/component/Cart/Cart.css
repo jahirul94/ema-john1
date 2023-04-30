@@ -4,3 +4,20 @@
     position: sticky;
     top: 0;
 }
+.btn-delete-cart{
+    display: flex;
+    justify-content: space-between;
+    width: 421px;
+    height: 56px;
+    align-items: center;
+    background-color: #FF3030;
+    color: white;
+    margin: 10 auto;
+
+}
+.icon-all-delete{
+    height: 50px;
+}
+.cart-text{
+    font-size: 21px;
+}

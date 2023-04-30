@@ -17,3 +17,7 @@ nav div a:hover{
     color: orange;
     font-size: 110%;
 }
+.text-white{
+    color: white;
+    padding-left: 20px;
+}
